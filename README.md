@@ -1,6 +1,6 @@
 Algorithms
 =============
-Implementations of various algorithms (in Python) including:
+Implementations of various algorithms/data structures (in Python) including:
 <ul>
 	<li>AVL Tree</li>
 	<li>Basic Graph</li>
