@@ -1,7 +1,8 @@
 """
+*** INCOMPLETE ***
 Christina Chan
 --
-1) Min-Heap implementation didn't work ... 'borrowed' a working heap solution! (awko taco)
+1) Min-Heap implementation
 2) Read data from file, split by tokens, store as integers in a 2D list
 3) Calculate lower bounds
     Row/Column Reduction Method

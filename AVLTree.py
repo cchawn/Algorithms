@@ -1,6 +1,4 @@
-# Data Structures - Assignment 2
-# Christina Chan
-# Monday, Feb 17th, 2014
+ # Christina Chan
 from random import randrange
 
 # vertex class, has left child and right child as well as a value

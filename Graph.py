@@ -1,12 +1,7 @@
-# Data Structures - Assignment 4
-# April 11, 2014
+
 # Christina Chan
 
 import random
-
-###################
-###### PART 1 #####
-###################
 
 ###### IMPLEMENTING A GRAPH ######
 class Graph(object):
@@ -153,9 +148,6 @@ class Graph(object):
 ##print(graph.diameter())
 
 
-###################
-###### PART 2 #####
-###################
 
 # choose a sample size k >= 10
 # run this test for n = 100, 200, 400, 800, 1600
